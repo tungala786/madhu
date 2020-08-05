@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="madhu" duration-ms="39443" started-at="2020-08-05T12:28:46Z" finished-at="2020-08-05T12:29:26Z">
+    <groups>
+    </groups>
+    <test name="madhu" duration-ms="39443" started-at="2020-08-05T12:28:46Z" finished-at="2020-08-05T12:29:26Z">
+      <class name="myPack.Madhu">
+        <test-method status="PASS" signature="addEmp()[pri:0, instance:myPack.Madhu@2752f6e2]" name="addEmp" duration-ms="27992" started-at="2020-08-05T17:58:46Z" finished-at="2020-08-05T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addEmp -->
+        <test-method status="PASS" signature="addLocation()[pri:0, instance:myPack.Madhu@2752f6e2]" name="addLocation" duration-ms="1" started-at="2020-08-05T17:59:14Z" finished-at="2020-08-05T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addLocation -->
+        <test-method status="PASS" signature="editEmp()[pri:0, instance:myPack.Madhu@2752f6e2]" name="editEmp" duration-ms="1" started-at="2020-08-05T17:59:14Z" finished-at="2020-08-05T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editEmp -->
+        <test-method status="PASS" signature="deleteEmp()[pri:0, instance:myPack.Madhu@2752f6e2]" name="deleteEmp" duration-ms="0" started-at="2020-08-05T17:59:14Z" finished-at="2020-08-05T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteEmp -->
+        <test-method status="PASS" signature="editLocation()[pri:0, instance:myPack.Madhu@2752f6e2]" name="editLocation" duration-ms="0" started-at="2020-08-05T17:59:14Z" finished-at="2020-08-05T17:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editLocation -->
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:myPack.Madhu@2752f6e2]" name="verifyLogin" duration-ms="11434" started-at="2020-08-05T17:59:14Z" finished-at="2020-08-05T17:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- myPack.Madhu -->
+    </test> <!-- madhu -->
+  </suite> <!-- madhu -->
+</testng-results>
